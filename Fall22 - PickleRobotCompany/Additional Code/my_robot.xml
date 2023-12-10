@@ -1,0 +1,14 @@
+<-- http://library.isr.ist.utl.pt/docs/roswiki/urdf(2f)Tutorials(2f)Create(20)your(20)own(20)urdf(20)file.html -->
+<robot name="test_robot">
+    <link name="link1" />
+    <link name="link2" />
+    
+    <joint name="joint1", type="continuous">
+        <child link="link1"/>
+    </joint>
+
+    <joint name="joint1", type="continuous">
+        <parent link="link1"/>
+        <child link="link2"
+    </joint>
+</robot> 

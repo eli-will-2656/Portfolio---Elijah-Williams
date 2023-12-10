@@ -1,0 +1,19 @@
+Inverse Kinematics
+1. Create config_list = [] list of all possible configurations the robot could be in
+	1.1. Can loop through each configuration and see if it is within bound
+2. Compute whether the end effector is at a singularity (on the hollow ball), using Jacobian matrix
+
+3. Solving 2R IK
+	3.1:  Distance of gripper is invariant to q1 --> only varies with q2
+		Solve for q2 (considering case when q1 = 0, and compare distances)
+
+	3.2: q2 = fraction
+		if   -1 < fraction < 1:
+			q2 = [acos(fraction), -acos(fraction)]
+		if fraction == 1 or fraction == -1:
+			q2 = [acos(fraction)]
+		else
+			no solutions
+
+	3.3: Return the elbow_up solution first (q2 > 0 )
+		
