@@ -1,0 +1,2 @@
+1. Is a module an object (instance of a class)
+2. Are classes user-defined types (just types created from the primary types -- strings, floats, ints, booleans)?

@@ -1,0 +1,15 @@
+"""This module is used to explore updating and reading from files"""
+
+text  = "A programmer is a person who looks both ways before going down a one-way street"
+
+with open("coding_quotes.txt", 'w') as quotes:
+	quotes.write(text)
+
+print("Is file closed?\t", quotes.closed)
+
+with open("coding_quotes.txt", 'w') as quotes:
+	quote = quotes.read()
+
+print(quote)
+
+
