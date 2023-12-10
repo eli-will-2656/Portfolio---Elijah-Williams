@@ -1,9 +1,5 @@
 # Cosmos :rocket:
-
-## Lab 4
-
-### App Description
-Space-themed flashcard app for creating customized notes
+- For this project I created a Space-themed flashcard app for creating customized notes using Kotlin.
 
 ### App Walk-though
 <img src="https://user-images.githubusercontent.com/104855506/197014898-fdeb7b26-0924-4e97-b8ef-94b05735fb59.gif" width=200><br>
