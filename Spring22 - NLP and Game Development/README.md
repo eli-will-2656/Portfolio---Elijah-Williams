@@ -4,5 +4,6 @@ This directory an ensemble code I created during Spring 2022 for:
 2. Graphics games I created in `C++` (Below: classic wood-chopping game Timber!)
 <img src="https://i.ytimg.com/vi/rsJ_Alch7kA/maxresdefault.jpg" width="500">
 3. HTML Websites and NLP Experiments created for "Computational Humanities" Course
+
 ![image](https://github.com/eli-will-2656/Vandy-Portfolio/assets/104855506/fd2d221e-df4f-42bc-ab96-16bb778123ba)
 
