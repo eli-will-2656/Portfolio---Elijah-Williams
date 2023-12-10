@@ -1,0 +1,17 @@
+How to change the size of the figure you are plotting on? (6/29/2023)
+Pass a "figsize = (a,b)" argument into the plotting function. This specifies the width and the height of the plot in inches.
+
+
+How to create graphs (7/7/2023)
+If you want to create a specific graph, look for a function already present in the library that will create exactly that graph.
+For example, if you want to plot points, use the scatter() function. If you want to create a histogram, use the hist() function.
+
+How to Plot Points (6/28/2023)
+The "pyplot.plot" function is one of the most used functions in python to plot data.
+To plot data, you call the function and pass in a list of x and y points.
+By default the function connects all the points, in order to change that you have to pass in an additional parameter string,
+that sets the color and the type of line drawn connecting the data points.
+
+matploblib.pyplot.plot(x_points, y_points, "yo")
+
+* This code will plot the points using yellow dots

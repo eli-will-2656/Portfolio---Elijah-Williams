@@ -1,0 +1,4 @@
+Virtual environments is a folder with a python interpreter and downloaded packages for python code to run on.
+It is used because sometimes you don't want code to run on global interpreter (which might have versions of packages/modules that aren't helpful)
+(1) Create venv using command palette
+(2) Activate venv using ps1 script in the folder.

@@ -1,0 +1,5 @@
+
+
+Refactoring
+Refactoring code means cleaning it up, without changing it's underlying functionality.
+By highlighting any piece of code, VScode can automaitcally refactor it.
