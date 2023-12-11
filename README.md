@@ -15,9 +15,19 @@
 
 # 2022
  * This fall I semester I participated in a codepath app development program and a robotics micro-internship:
+ * 
 | Robotics Optimization           |  App Development | 
 | ------------------------- | ------------------------- |
-| <img src="https://github.com/eli-will-2656/Vandy-Portfolio/assets/104855506/4f313e8b-3f90-44ed-8498-0808408b9219" width="200" height="200" /> |  <img src="https://user-images.githubusercontent.com/104855506/197014898-fdeb7b26-0924-4e97-b8ef-94b05735fb59.gif"  width="200" height="200"><br> |
+| <img src="https://github.com/eli-will-2656/Vandy-Portfolio/assets/104855506/4f313e8b-3f90-44ed-8498-0808408b9219" width="300" height="200" /> |  <img src="https://user-images.githubusercontent.com/104855506/197014898-fdeb7b26-0924-4e97-b8ef-94b05735fb59.gif"  width="200" height="200"><br> |
 
 
 # 2021
+* This year I worked on several individual SWE and CAD projects including creating an application using Huggingface Transformers and designing a flashlight using Autodesk:
+  
+| Transformers Application          |  CAD | 
+| ------------------------- | ------------------------- |
+| <img src="https://github.com/eli-will-2656/Vandy-Portfolio/assets/104855506/9736b8c1-53eb-4d8e-9e2e-eee06d0b780b" width="300" height="200" /> |  <img src="https://github.com/eli-will-2656/Vandy-Portfolio/assets/104855506/d744de2a-49cd-4d7a-bf4b-117731d24911"  width="300" height="200"><br> |
+
+
+
+
