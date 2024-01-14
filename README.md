@@ -23,7 +23,7 @@
   
 | Transformers Application          |  CAD | 
 | ------------------------- | ------------------------- |
-| <img src="https://github.com/eli-will-2656/Vandy-Portfolio/assets/104855506/54a2ee5a-b110-4623-bd68-897ffe13ed1d" width="600" height="300" /> |  <img src="https://github.com/eli-will-2656/Vandy-Portfolio/assets/104855506/d744de2a-49cd-4d7a-bf4b-117731d24911"  width="300" height="300"><br> |
+| <img src="https://github.com/eli-will-2656/Vandy-Portfolio/assets/104855506/54a2ee5a-b110-4623-bd68-897ffe13ed1d" width="500" height="300" /> |  <img src="https://github.com/eli-will-2656/Vandy-Portfolio/assets/104855506/d744de2a-49cd-4d7a-bf4b-117731d24911"  width="300" height="300"><br> |
 
 
 
