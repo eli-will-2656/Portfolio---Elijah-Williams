@@ -19,11 +19,12 @@
 
 
 # 2021
-* This year I worked on several individual SWE and CAD projects including creating an application using Huggingface Transformers and designing a flashlight using Autodesk:
+* This year I worked on several individual SWE and CAD projects including designing a Q/A program using language models and a flashlight using Autodesk:
   
 | Transformers Application          |  CAD | 
 | ------------------------- | ------------------------- |
-| <img src="https://github.com/eli-will-2656/Vandy-Portfolio/assets/104855506/9736b8c1-53eb-4d8e-9e2e-eee06d0b780b" width="300" height="200" /> |  <img src="https://github.com/eli-will-2656/Vandy-Portfolio/assets/104855506/d744de2a-49cd-4d7a-bf4b-117731d24911"  width="300" height="200"><br> |
+| <img src="https://github.com/eli-will-2656/Vandy-Portfolio/assets/104855506/54a2ee5a-b110-4623-bd68-897ffe13ed1d" width="600" height="300" /> |  <img src="https://github.com/eli-will-2656/Vandy-Portfolio/assets/104855506/d744de2a-49cd-4d7a-bf4b-117731d24911"  width="300" height="300"><br> |
+
 
 
 
