@@ -1,0 +1,146 @@
+item_string,recall,max_arousal,min_valence,emotional_power,passage
+The Glasgow Coma Scale looks at ,0.8571428571428571,3.8,1.89,5.0600000000000005,4
+"If there is pain, ",0.4375,6.27,2.0,4.27,3
+Victims of lightning strikes ,0.3888888888888889,6.75,2.05,3.3200000000000003,2
+The other type of wound is an open head injury.   ,0.9285714285714286,5.56,2.32,3.2399999999999998,4
+"internal injury, fracture, or spinal injury.   ",0.3333333333333333,5.56,2.32,3.2399999999999998,2
+may cause burn and additional injury.   ,0.2777777777777778,5.56,2.32,3.2399999999999998,2
+One symptom of this injury ,0.35714285714285715,5.56,2.32,3.42,4
+One type of head wound is a closed head injury.   ,0.9285714285714286,5.56,2.32,3.42,4
+Prevent additional sicknesses ,0.21428571428571427,4.18,2.4,3.65,4
+This kind of wound may result in extensive bleeding.   ,0.5,5.0,2.47,4.59,4
+and strain out all pus.   ,0.5,5.0,2.52,2.48,1
+to soak up any excess pus or blood.   ,0.5,5.76,2.52,3.05,1
+increased inflammation and pus collection. ,0.125,5.06,2.52,2.7800000000000002,1
+promote pus straining in smaller abscesses.   ,0.5,5.0,2.52,3.21,1
+clear of any close dangers.   ,0.2857142857142857,5.84,2.66,3.4299999999999997,4
+Record information about the abscess and procedure ,0.6875,4.15,2.79,4.03,1
+Signs of larger abscesses include,0.125,5.35,2.79,3.34,1
+"Next, cut open the abscess ",0.25,5.07,2.79,3.21,1
+"Lastly, apply anesthesia to the edge surrounding the abscess.   ",0.4375,4.65,2.79,3.21,1
+Smaller abscesses are ,0.8125,4.0,2.79,3.21,1
+Larger abscesses will ,0.8125,5.35,2.79,3.21,1
+the abscess prior to completing the procedure.   ,0.5625,4.15,2.79,3.93,1
+Smaller and larger abscesses ,0.75,5.35,2.79,3.21,1
+Gather all necessary equipment required to care for the abscess.   ,0.375,4.33,2.79,4.97,1
+Surround the abscess with cleaned drapes ,0.375,4.0,2.79,3.52,1
+for abscesses could contain sharp or jagged objects.   ,0.75,6.05,2.79,3.21,1
+Position the patient so the abscess is easily accessible. ,0.0625,4.0,2.79,3.94,1
+paralysis to ,0.35714285714285715,5.07,2.9,2.1700000000000004,4
+Open head injuries may also look like mangled scalp tissue.   ,0.2857142857142857,5.9,2.9,3.04,4
+"This includes penetrating entry wounds, ",0.7142857142857143,6.08,2.95,3.34,4
+with no exit wounds.   ,0.5714285714285714,4.0,2.95,3.05,4
+Check the patient for signs and symptoms of head wounds.   ,0.14285714285714285,4.45,2.95,3.94,4
+perform the incision and strainage.   ,0.375,5.15,2.95,2.1499999999999995,1
+check if the patient is unresponsive.   ,0.35714285714285715,3.94,2.95,3.94,4
+require an incision ,0.5625,4.9,2.95,2.1499999999999995,1
+Begin preparing for assessment and treatment of head wounds.   ,0.5,4.47,2.95,3.5900000000000003,4
+Look for any foreign bodies or damage to the eyeball.   ,0.5,5.43,2.98,2.1900000000000004,3
+Insert the syringe slightly under the skin ,0.3125,4.81,3.05,2.5300000000000002,1
+Completing this step also prevents further contamination of the eye.   ,0.25,6.71,3.11,3.93,3
+Explosions and lightning ,0.6666666666666666,6.75,3.17,3.1799999999999997,2
+is deformity of the head.   ,0.6428571428571429,4.71,3.18,2.11,4
+Insufficient oxygen to the brain results in ,0.21428571428571427,4.9,3.24,3.19,4
+"Use caution, ",0.6875,4.19,3.29,2.71,1
+to inject anesthetic.   ,0.3125,4.14,3.32,2.5400000000000005,1
+Symptoms also involve ,0.21428571428571427,4.17,3.33,2.5,4
+Symptoms of closed head injuries also include ,0.14285714285714285,5.9,3.33,3.34,4
+"To begin, determine cause and severity of casualty burns.   ",0.7777777777777778,6.3,3.33,3.5900000000000003,2
+"smoke, steam, or combustion products.   ",0.5,6.26,3.44,2.05,2
+feelings of restlessness.   ,0.07142857142857142,4.05,3.63,2.64,4
+bandage both eyes ,0.375,3.64,3.63,3.39,3
+to strain them.   ,0.6875,4.78,3.71,1.5099999999999998,1
+Determine percentage of body surface area burnt ,0.6111111111111112,5.4,3.73,3.3699999999999997,2
+"For thermal burns, ",0.3333333333333333,5.4,3.73,1.8800000000000003,2
+"For chemical burns, ",0.3333333333333333,5.4,3.73,1.7000000000000002,2
+"Once the burn process is stopped, ",0.16666666666666666,5.4,3.73,1.7200000000000002,2
+and burn degree.   ,0.3333333333333333,5.4,3.73,1.6700000000000004,2
+Now you must prepare to stop the burn process.  ,0.6666666666666666,5.4,3.73,1.7200000000000002,2
+Cover both the injured ,0.625,5.9,3.74,2.16,3
+These injuries may include ,0.1111111111111111,5.9,3.74,3.34,2
+presence of carbon discoloration in the mouth.   ,0.5555555555555556,4.14,3.82,2.15,2
+"singed eyebrows and eyelashes, hoarseness, and loud inhalation.   ",0.5,3.33,3.85,2.98,2
+Determine if they were exposed to ,0.05555555555555555,5.89,4.14,1.75,2
+Remove the body ,0.1875,4.62,4.21,2.68,3
+The next step is to remove the foreign object.   ,0.1875,5.43,4.21,2.68,3
+"the patient must stop, drop, and roll.   ",0.2777777777777778,4.67,4.23,3.94,2
+"Recount the procedure used, ",0.3125,4.15,4.28,1.5699999999999994,1
+Provide details on how the patient tolerated the procedure.   ,0.3125,4.76,4.28,3.94,1
+These are caused by a hard impact to the head.   ,0.21428571428571427,5.85,4.35,1.6599999999999997,4
+Pull the lower lid down or the upper lid up.   ,0.8125,4.1,4.39,3.4000000000000004,3
+The lower limbs   ,0.6666666666666666,2.7,4.39,3.4000000000000004,2
+Oxygen must now be administered to patient ,0.4444444444444444,4.9,4.4,3.94,2
+The upper limbs,0.7222222222222222,3.52,4.42,2.88,2
+may need prolonged respiratory support.  ,0.16666666666666666,3.77,4.45,3.84,2
+is calculated with the rule of nines.  ,0.8333333333333334,3.83,4.5,1.9300000000000002,2
+Apply gauze ,0.5,3.24,4.5,2.3,1
+with a sterile cotton swab if stuck.   ,0.25,4.47,4.57,3.57,3
+Apply dry sterile dressings to ,0.5625,4.73,4.57,1.92,3
+Ensure the appropriate precautions are met ,0.3125,4.04,4.57,2.38,1
+typically less than five millimeters wide. ,1.0,3.62,4.58,2.37,1
+typically less than five millimeters in diameter. ,0.6666666666666666,4.04,4.58,2.05,1
+flush the area of contact with water immediately.   ,0.3888888888888889,4.64,4.67,3.3699999999999997,2
+Place a cotton swab ,0.5,3.52,4.7,3.57,3
+Fold the patient's eyelid backward over the cotton swab.   ,0.625,3.0,4.7,3.94,3
+may require different methods for treatment. ,0.5,4.47,4.74,2.36,1
+carry 36% of surface area,0.5555555555555556,3.57,4.74,3.3699999999999997,2
+"Once required preparations are complete, ",0.125,4.33,4.74,3.93,1
+along the back of the lid.   ,0.375,2.91,4.76,2.6500000000000004,3
+The percentage,0.0,2.96,4.81,2.2300000000000004,2
+"If the foreign body penetrates the eye, do the following.   ",0.375,6.08,4.82,2.2299999999999995,3
+Assess the patient's level of consciousness by the following assessments. ,0.7142857142857143,3.76,4.82,3.94,4
+The second method for locating foreign bodies is as follows.   ,0.5625,5.43,4.82,1.9100000000000001,3
+Include any follow up care instructions given to the patient.   ,0.1875,3.76,4.82,4.97,1
+such as the quantity of anesthesia.   ,0.375,3.84,4.84,1.52,1
+support the foreign body.   ,0.4375,5.43,4.86,3.84,3
+"For small foreign bodies, ",0.4375,5.43,4.86,2.3299999999999996,3
+There are two methods for locating foreign bodies in eyes.   ,0.875,5.43,4.86,3.39,3
+"open flame, hot liquid, chemicals, or electricity.   ",0.5555555555555556,6.6,4.89,2.5,2
+"Once these steps are complete, ",0.0625,3.0,4.95,3.93,3
+Unblock the airway ,0.3333333333333333,4.0,4.95,1.0499999999999998,2
+"For the AVPU scale, ",0.7142857142857143,3.8,5.06,1.2599999999999998,4
+account for 9% of surface area.    ,0.6111111111111112,3.83,5.1,3.3699999999999997,2
+(each 9%).  ,0.6111111111111112,3.83,5.1,1.2699999999999996,2
+"If the cause is electrical, ",0.4444444444444444,6.0,5.14,1.6599999999999997,2
+Possible causes include ,0.5555555555555556,3.71,5.14,3.4299999999999997,2
+and cover adjacent areas.   ,0.25,3.76,5.15,3.3699999999999997,1
+to minimize movement.   ,0.5,4.19,5.16,2.58,3
+Applying warm soaks can ,0.75,3.35,5.16,4.15,1
+"For method one, ",0.5625,4.17,5.2,3.42,3
+seek further medical aid immediately. ,0.625,4.64,5.22,2.35,3
+irrigate it out of the eye.   ,0.625,3.95,5.23,2.2299999999999995,3
+and check for signs of inhalation.   ,0.2777777777777778,3.38,5.25,3.17,2
+Signs include ,0.3333333333333333,3.19,5.27,3.34,2
+Another sign is ,0.1111111111111111,3.19,5.27,2.0799999999999996,2
+verbal ,0.07142857142857142,3.76,5.29,1.5300000000000002,4
+and to both sides.   ,0.25,3.14,5.32,2.18,3
+one side of the body.   ,0.14285714285714285,4.62,5.32,3.42,4
+"Ensure you have necessary equipment, ",0.14285714285714285,3.57,5.39,2.58,4
+The head and neck,0.7222222222222222,4.45,5.44,1.7900000000000005,2
+turn off the electrical current.   ,0.6111111111111112,6.0,5.45,2.2800000000000002,2
+Check for objects in the eye as they look around.   ,0.6875,4.08,5.52,3.17,3
+host 18% of surface area  ,0.5,3.83,5.56,3.3699999999999997,2
+elevated body temperatures.  ,0.35714285714285715,4.86,5.58,1.7699999999999996,4
+or pull the eyelid away.   ,0.0625,4.1,5.59,1.4900000000000002,3
+pull the eyelid away from the eyeball.  ,0.4375,4.1,5.59,1.81,3
+"time, ",0.2857142857142857,3.41,5.6,2.1899999999999995,4
+and their name.   ,0.5714285714285714,3.04,5.62,2.58,4
+and motor responses.   ,0.07142857142857142,5.42,5.64,2.39,4
+Describe details about ,0.3125,3.81,5.67,2.95,1
+at a high flow rate.   ,0.2777777777777778,4.17,5.68,1.9699999999999998,2
+It also checks if the patient's eyes are opening properly.   ,0.2857142857142857,4.6,5.68,3.94,4
+(each 18%).,0.3333333333333333,3.83,5.72,1.8899999999999997,2
+"Have the patient look up, down, ",0.6875,3.76,5.86,3.94,3
+by completing a patient care hand wash.   ,0.5,3.98,5.9,4.97,4
+Ask the patient for ,0.6428571428571429,3.48,5.95,3.94,4
+Hold the eye open ,0.0,4.86,6.05,2.2299999999999995,3
+and seek aid.   ,0.3125,4.55,6.25,2.35,3
+and seek help.   ,0.25,4.29,6.25,2.66,3
+such as dressings and cravats. ,0.14285714285714285,4.73,6.42,1.6899999999999995,4
+begin to treat the patient.   ,0.3333333333333333,5.0,6.44,3.94,2
+"If nothing is found, ",0.3125,3.52,6.45,2.93,3
+on SF 600.   ,0.625,3.7,6.5,2.8,1
+and uninjured eyes ,0.25,3.18,6.57,3.39,3
+"Secure a safe environment, ",0.21428571428571427,3.6,6.7,4.5600000000000005,4
+before treating the patient.   ,0.25,5.0,6.71,3.94,1
+"the date, ",0.5,4.33,7.18,2.8499999999999996,4
