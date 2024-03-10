@@ -1,0 +1,1 @@
+Start by asking for the patient history and health record. 

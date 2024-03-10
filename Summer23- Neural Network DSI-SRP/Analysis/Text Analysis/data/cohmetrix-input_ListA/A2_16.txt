@@ -1,0 +1,1 @@
+Calculate the percentage of body surface area burnt and burn degree.
