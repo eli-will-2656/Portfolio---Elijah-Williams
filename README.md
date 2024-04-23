@@ -7,7 +7,7 @@
 
 | Drone Controller            | 
 | ------------------------- | 
-| <img src="https://github.com/eli-will-2656/Vandy-Portfolio/assets/104855506/041079de-a806-45ab-a947-8376418f5f5f" width="500" height="200" /> | 
+| <img src="https://github.com/eli-will-2656/Vandy-Portfolio/assets/104855506/041079de-a806-45ab-a947-8376418f5f5f" width="350" height="200" /> | 
 
 # 2023
 * This summer research project involved creating a two-layer neural network to model people's memory of reading. Here is my [project summary](https://www.vanderbilt.edu/datascience/2023/08/21/expanding-the-cmr-model-a-computational-investigation-of-reading-comprehension-dsi-srp/)!
