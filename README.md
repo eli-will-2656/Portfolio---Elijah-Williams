@@ -2,6 +2,13 @@
 - This repository contains code from several coding projects I have had the opportunity to participate in so far at Vanderbilt.
 - Here some pictures reflective of the work I've completed so far!
 
+# 2024
+* This Spring internship involved modeling a quadrotor drone and creating a [PD controller](https://medium.com/@squonk-/understanding-pid-controllers-stable-flight-in-drones-and-beyond-861b1471c026). See it in action below!
+
+| Drone Controller            | 
+| ------------------------- | 
+| <img src="https://github.com/eli-will-2656/Vandy-Portfolio/assets/104855506/041079de-a806-45ab-a947-8376418f5f5f" width="500" height="200" /> | 
+
 # 2023
 * This summer research project involved creating a two-layer neural network to model people's memory of reading. Here is my [project summary](https://www.vanderbilt.edu/datascience/2023/08/21/expanding-the-cmr-model-a-computational-investigation-of-reading-comprehension-dsi-srp/)!
 
