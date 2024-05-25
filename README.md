@@ -3,7 +3,7 @@
 - Here some pictures reflective of the work I've completed so far!
 
 # 2024
-* This spring I participated in an Open Avenues internship creating a [PD controller](https://medium.com/@squonk-/understanding-pid-controllers-stable-flight-in-drones-and-beyond-861b1471c026) for a quadrotor. See it in action below!
+* This spring I participated in an Open Avenues internship creating a [PID controller](https://medium.com/@squonk-/understanding-pid-controllers-stable-flight-in-drones-and-beyond-861b1471c026) for a quadrotor. See it in action below!
 
 | Drone Controller            | 
 | ------------------------- | 
