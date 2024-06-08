@@ -4,8 +4,7 @@
 
 # 2024
 * This spring I participated in an Open Avenues internship creating a [PID controller](https://medium.com/@squonk-/understanding-pid-controllers-stable-flight-in-drones-and-beyond-861b1471c026) for a quadrotor. See it in action below!
-* This summer I joined TAMU's math department to [model shock formations](https://people.tamu.edu/~maier/summerschool2024/) using conservation equations
-
+* This summer I joined TAMU's math department to [model shock formations](https://people.tamu.edu/~maier/summerschool2024/) (image by Professor Maier, not me :grin:)
 | Drone Controller            | Simulating Shocks | 
 | ------------------------- | ------------------------- |
 | <img src="https://github.com/eli-will-2656/Vandy-Portfolio/assets/104855506/041079de-a806-45ab-a947-8376418f5f5f" width="350" height="200" /> |  <img src="https://github.com/eli-will-2656/Vandy-Portfolio/assets/104855506/cf04ec5d-521c-474a-8b18-926b232bb5bd" width="350" height="200" /> |
