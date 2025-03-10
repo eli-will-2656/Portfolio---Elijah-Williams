@@ -20,7 +20,7 @@
 | <img src="https://github.com/eli-will-2656/Vandy-Portfolio/assets/104855506/e5a31fbb-6183-4929-8e87-082f519349d1" width="300" height="200" /> |  <img src="https://github.com/eli-will-2656/Vandy-Portfolio/assets/104855506/bc53c3f7-3361-4e44-b786-48337edced4c" width="300" height="200" /> |
 
 # 2022
- * This fall I semester I participated in a codepath app development program and a robotics micro-internship:
+ * This Fall semester, I participated in a Codepath [Mobile-app](https://www.codepath.org/courses/intro-to-mobile-app-development) development program and a [Robotics](https://github.com/eli-will-2656/Vandy-Portfolio/tree/main/Fall22%20-%20PickleRobotCompany) micro-internship:
    
 | Robotics Optimization           |  App Development | 
 | ------------------------- | ------------------------- |
